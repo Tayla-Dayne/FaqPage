@@ -1,5 +1,9 @@
 ﻿.faq-question{
-	background-color: #FFC600;
+	background-color: #F05A39;
+	width: 500px;
+  	border: 15px #FFFFFF;
+  	padding: 20px;
+  	margin: 15px;
 }
 
 .faq-question.minus{
